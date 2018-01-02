@@ -2,14 +2,19 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+## Ben Neale.  
 
-### More Information
+Studying a Bachelor of Visual Communication at the University of South Australia.
 
-A place to include any other types of information that you'd like to include about yourself.
+Designer at [Pirate Life Brewing](https://piratelife.com.au)
+
+##Interests
+
+Anything visual; photography, design, videography, architecture, interiors etc.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hi@bneale.com](mailto:hi@bneale.com)
