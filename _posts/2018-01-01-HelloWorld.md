@@ -7,7 +7,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 Testing the formatting. 
 
-![Ash and Jackson - Test]({{site.baseurl}}/_posts/A&J-2.jpg)
+![Ash and Jackson - Test]({{site.baseurl}}/_posts/AandJ-2.jpg)
 
 Test Image Upload ^
 
